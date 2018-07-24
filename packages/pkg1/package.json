@@ -13,5 +13,8 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^3.0.0-dev.20180626"
+  },
+  "dependencies": {
+    "to-fast-properties": "^2.0.0"
   }
 }
